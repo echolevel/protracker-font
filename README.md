@@ -8,7 +8,7 @@ I couldn't find the Protracker 2-era bitmap font in a browser-friendly format, s
 
 See below for the full repertoire of characters.
 
-There are lots of similar-looking 8x8 pixel bitmap fonts out there...but none quite the same. It's short, fat, Commodore-y and 
+There are lots of similar-looking 8x8 pixel bitmap fonts out there...but none quite the same. It's short, fat (actually only 5px high), Commodore-y and 
 quite delightful. It may have been originally made by a Protracker coder in the early 90s, or it might well preexist that and have 
 been ripped from something else. If anyone knows for sure, I'd be happy to add credits here. Meanwhile, please enjoy!
 
