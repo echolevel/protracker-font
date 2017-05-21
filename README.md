@@ -12,5 +12,11 @@ There are lots of similar-looking 8x8 pixel bitmap fonts out there...but none qu
 quite delightful. It may have been originally made by a Protracker coder in the early 90s, or it might well preexist that and have 
 been ripped from something else. If anyone knows for sure, I'd be happy to add credits here. Meanwhile, please enjoy!
 
+###Changelog
+
+ * makes sense for this to be monospace...so now it is!
+ * whitespace separator was nonexistent - fixed
+ * B character was missing two pixels - fixed
+
 ![](repertoire.png)
 
