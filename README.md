@@ -2,7 +2,7 @@
 
 ![](screenshot.png)
 
-While making a PT.Config-XX editor, I wanted to make a dynamic preview window that would reflect changes to the colour palette.
+While making my [PT.Config-XX editor](http://echolevel.co.uk/ptconfig), I wanted to make a dynamic preview window that would reflect changes to the colour palette.
 I couldn't find the Protracker 2-era bitmap font in a browser-friendly format, so I used FontStruct to create it myself using
 8bitbubsy's [Protracker 2.3E source code](https://sourceforge.net/p/protracker/code/HEAD/tree/) as a guide.
 
